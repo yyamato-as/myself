@@ -8,4 +8,4 @@
 - MAPS: Molecules with ALMA at planet-forming Scales - The Chemistry of Planet Formation (ALMA Cycle 6 Large Program)
 
 ## Key Publication
-- in preperation
+- in preparation
